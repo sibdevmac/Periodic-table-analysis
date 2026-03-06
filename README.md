@@ -82,8 +82,11 @@ The dataset also provides information about **element abundance in Earth's crust
 Two visualizations were used:
 
 - **Melting Point vs Boiling Point by State**
+
 <img width="859" height="545" alt="image" src="https://github.com/user-attachments/assets/1d3bce1c-8343-47a9-ade8-f10e951d0ab4" />
+
 - **Density vs Melting Point**
+
 <img width="859" height="545" alt="image" src="https://github.com/user-attachments/assets/d8852d8e-34a4-4066-acbf-8cf93734274d" />
 
 ### Key Observations
